@@ -1,0 +1,7 @@
+D:\Work\c#\010keygen\010EditorKeygen\bin\Debug\010EditorKeygen.exe.config
+D:\Work\c#\010keygen\010EditorKeygen\bin\Debug\010EditorKeygen.exe
+D:\Work\c#\010keygen\010EditorKeygen\bin\Debug\010EditorKeygen.pdb
+D:\Work\c#\010keygen\010EditorKeygen\obj\Debug\010EditorKeygen.csproj.AssemblyReference.cache
+D:\Work\c#\010keygen\010EditorKeygen\obj\Debug\010EditorKeygen.csproj.CoreCompileInputs.cache
+D:\Work\c#\010keygen\010EditorKeygen\obj\Debug\010EditorKeygen.exe
+D:\Work\c#\010keygen\010EditorKeygen\obj\Debug\010EditorKeygen.pdb
